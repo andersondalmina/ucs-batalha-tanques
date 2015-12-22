@@ -1,2 +1,6 @@
 # ucs-batalha-tanques
-Projeto final da cadeira de Programação 1 - Curso de Engenharia da Computação - UCS
+
+Projeto final da cadeira de Programação 1 - Curso de Engenharia da Computação 
+UCS (Universidade de Caxias do Sul)
+
+## Linguagem utilizada: C
